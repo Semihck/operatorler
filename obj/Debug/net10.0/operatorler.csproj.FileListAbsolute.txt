@@ -1,0 +1,14 @@
+/Users/semihkartal/Desktop/denemler/operatorler/bin/Debug/net10.0/operatorler
+/Users/semihkartal/Desktop/denemler/operatorler/bin/Debug/net10.0/operatorler.deps.json
+/Users/semihkartal/Desktop/denemler/operatorler/bin/Debug/net10.0/operatorler.runtimeconfig.json
+/Users/semihkartal/Desktop/denemler/operatorler/bin/Debug/net10.0/operatorler.dll
+/Users/semihkartal/Desktop/denemler/operatorler/bin/Debug/net10.0/operatorler.pdb
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.AssemblyInfoInputs.cache
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.AssemblyInfo.cs
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.dll
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/refint/operatorler.dll
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.pdb
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/operatorler.genruntimeconfig.cache
+/Users/semihkartal/Desktop/denemler/operatorler/obj/Debug/net10.0/ref/operatorler.dll
